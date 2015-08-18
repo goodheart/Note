@@ -1,0 +1,2 @@
+1、在Mac下搭建jenkins+github环境 : http://crazysky.iteye.com/blog/1763673
+2、
