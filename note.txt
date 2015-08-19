@@ -1,2 +1,3 @@
 1、在Mac下搭建jenkins+github环境 : http://crazysky.iteye.com/blog/1763673
-2、
+2、在MAC上使用TREE命令：gaibing2009.diandian.com/?p=536
+3、
