@@ -3,4 +3,5 @@
 3、在 Mac mini 上架设 Jenkins 服务器来运行 iOS 测试  : linjunpop.logdown.com/posts/162202-set-up-jenkins-server-on-the-mac-mini-to-run-ios-tests
 4、Installing Gitlab on OS X：thoughtpointers.net/2012/10/07/installing-gitlab-on-os-x/
 5、IOS使用Jenkins进行持续集成:www.itnose.net/detail/6075531.html
-6、
+6、iOS自动化编译:www.cnblogs.com/brycezhang/p/4097487.html
+7、
