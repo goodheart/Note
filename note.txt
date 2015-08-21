@@ -1,4 +1,5 @@
 1、在Mac下搭建jenkins+github环境 : http://crazysky.iteye.com/blog/1763673
 2、在MAC上使用TREE命令：gaibing2009.diandian.com/?p=536
 3、在 Mac mini 上架设 Jenkins 服务器来运行 iOS 测试  : linjunpop.logdown.com/posts/162202-set-up-jenkins-server-on-the-mac-mini-to-run-ios-tests
-4、4、4、4、
+4、Installing Gitlab on OS X：thoughtpointers.net/2012/10/07/installing-gitlab-on-os-x/
+5、
