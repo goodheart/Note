@@ -4,4 +4,5 @@
 4、Installing Gitlab on OS X：thoughtpointers.net/2012/10/07/installing-gitlab-on-os-x/
 5、IOS使用Jenkins进行持续集成:www.itnose.net/detail/6075531.html
 6、iOS自动化编译:www.cnblogs.com/brycezhang/p/4097487.html
-7、
+7、搭建自己的git 代码服务器 ： blog.chinaunix.net/uid-27105712-id-4511124.html
+8、
