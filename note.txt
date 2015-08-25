@@ -5,4 +5,5 @@
 5、IOS使用Jenkins进行持续集成:www.itnose.net/detail/6075531.html
 6、iOS自动化编译:www.cnblogs.com/brycezhang/p/4097487.html
 7、搭建自己的git 代码服务器 ： blog.chinaunix.net/uid-27105712-id-4511124.html
-8、
+8、MQTT协议笔记之连接和心跳 : www.tuicool.com/articles/AFvmee
+9、
