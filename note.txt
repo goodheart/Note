@@ -7,4 +7,5 @@
 7、搭建自己的git 代码服务器 ： blog.chinaunix.net/uid-27105712-id-4511124.html
 8、MQTT协议笔记之连接和心跳 : www.tuicool.com/articles/AFvmee
 9、64-bit Tips ： blog.sunnyxx.com/2014/12/20/64-bit-tips/
-10、
+10、How To Write Cocoa Object Getters and Setters ： http://vgable.com/blog/tag/autorelease/
+11、
