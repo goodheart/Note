@@ -8,4 +8,5 @@
 8、MQTT协议笔记之连接和心跳 : www.tuicool.com/articles/AFvmee
 9、64-bit Tips ： blog.sunnyxx.com/2014/12/20/64-bit-tips/
 10、How To Write Cocoa Object Getters and Setters ： http://vgable.com/blog/tag/autorelease/
-11、
+11、iOS 集合的深复制与浅复制 ： https://www.zybuluo.com/MicroCai/note/50592
+12、
