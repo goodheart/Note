@@ -12,4 +12,9 @@
 12、JSPatch实现原理详解 ： blog.cnbang.net/tech/2808/
 13、http://blog.sunnyxx.com/
 14、如何自己动手实现 KVO : tech.glowing.com/cn/implement-kvo/
-15、
+15、Should IBOutlets be strong or weak under ARC? ： stackoverflow.com/questions/7678469/should-iboutlets-be-strong-or-weak-under-arc
+文章告诉我们：
+
+因为既然有外链那么视图在xib或者storyboard中肯定存在，视图已经对它有一个强引用了。
+不过这个回答漏了个重要知识，使用storyboard（xib不行）创建的vc，会有一个叫_topLevelObjectsToKeepAliveFromStoryboard的私有数组强引用所有top level的对象，所以这时即便outlet声明成weak也没关系
+16、
