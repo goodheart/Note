@@ -18,4 +18,5 @@
 因为既然有外链那么视图在xib或者storyboard中肯定存在，视图已经对它有一个强引用了。
 不过这个回答漏了个重要知识，使用storyboard（xib不行）创建的vc，会有一个叫_topLevelObjectsToKeepAliveFromStoryboard的私有数组强引用所有top level的对象，所以这时即便outlet声明成weak也没关系
 16、谷歌浏览器(chrome)"时空隧道"插件安装与使用:jingyan.baidu.com/article/6d704a1312c87728db51ca81.html?st=2&os=0&bd_page_type=1&net_type=1
-17、
+17、iOS图片加载速度极限优化—FastImageCache解析 ： blog.cnbang.net/tech/2578/
+18、
