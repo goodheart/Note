@@ -22,5 +22,6 @@
 18、OC js 交互 ： www.itnose.net/detail/6238745.html
 19、http://nshipster.com/
 20、iOS：关于获取网络类型和运营商信息：http://www.open-open.com/lib/view/open1409821903369.html
-21、
+21、Mach-O 可执行文件 ： blog.jobbole.com/51527/
+22、
 
