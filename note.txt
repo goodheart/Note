@@ -28,5 +28,21 @@
 24、静态库中采用ObjectC++实现，因此需要您保证您工程中至少有一个.mm后缀的源文件(您可以将任意一个.m后缀的文件改名为.mm)，或者在工程属性中指定编译方式，即将Xcode的Project -> Edit Active Target -> Build -> GCC4.2 - Language -> Compile Sources As设置为"Objective-C++"
 25、iOS程序模块化设计 ： www.cnblogs.com/JoelZeng/p/4124043.html
 26、怎样利用Cocoapods模块化开发你的app：my.oschina.net/zboy/blog/214935?p={{totalPage}}
-27、
+27、//UIImage* ImageA;
+CGImageRef image = [ImageA CGImage];
+ 
+CGSize image_size = ImageA.size;
+ 
+CGColorSpaceRef colorSpace = CGColorSpaceCreateDeviceRGB();
+void* data = malloc(image_size.width * image_size.height * 4);
+CGContextRef context = 
+CGBitmapContextCreate(data, image_size.width, image_size.height, 8, 4 * image_size.width, colorSpace, 
+kCGImageAlphaPremultipliedLast | kCGBitmapByteOrder32Big);
+CGContextDrawImage(context, CGRectMake(0, 0, leftwidth, image_size.height), image);
+/*
+data中就是你要得原始bmp图了, 没有文件头
+*/
+CGContextRelease(context);
+free(data);
+28、
 
