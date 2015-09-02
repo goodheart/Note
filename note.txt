@@ -26,5 +26,6 @@
 22、GLoow团队http://tech.glowing.com/cn/
 23、XCode编译速度慢的解决方案 ： www.2cto.com/kf/201406/308256.html
 24、静态库中采用ObjectC++实现，因此需要您保证您工程中至少有一个.mm后缀的源文件(您可以将任意一个.m后缀的文件改名为.mm)，或者在工程属性中指定编译方式，即将Xcode的Project -> Edit Active Target -> Build -> GCC4.2 - Language -> Compile Sources As设置为"Objective-C++"
-25、
+25、iOS程序模块化设计 ： www.cnblogs.com/JoelZeng/p/4124043.html
+26、
 
