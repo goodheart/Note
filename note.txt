@@ -70,5 +70,6 @@ free(data);
       }  
   });  
   dispatch_resume(_timer);  
-  29、
+  29、PNG (Portable Network Graphics) Specification ： www.w3.org/TR/PNG-Structure.html
+  30、
 
