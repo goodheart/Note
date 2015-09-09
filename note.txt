@@ -74,5 +74,6 @@ free(data);
   30、将hexo博客同时托管到github和gitcafe : www.tuicool.com/articles/QFzUbm
   31、http://ksnowlv.github.io/blog/archives/
   32、http://www.olinone.com/
-  33、
+  33、http://blog.maxwi.com/
+  34、
 
