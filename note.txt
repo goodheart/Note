@@ -72,5 +72,6 @@ free(data);
   dispatch_resume(_timer);  
   29、PNG (Portable Network Graphics) Specification ： www.w3.org/TR/PNG-Structure.html
   30、将hexo博客同时托管到github和gitcafe : www.tuicool.com/articles/QFzUbm
-  31、
+  31、http://ksnowlv.github.io/blog/archives/
+  32、
 
