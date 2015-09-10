@@ -88,5 +88,6 @@ m键 – 按内存使用量排序
 
 如果记不清了，可以在top的界面上按?，在弹出的帮助界面中即可看到。
 38、Make it run, then make it right, then make it fast.
-39、
+39、Expert C Programming(中文版) ： download.csdn.net/download/maxiaolin8412/304907
+40、
 
